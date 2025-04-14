@@ -7,3 +7,6 @@
 #### updating in HTML file
 <img width="305" alt="Screenshot 2025-04-13 at 10 00 07 PM" src="https://github.com/user-attachments/assets/09219b11-9c56-45e2-a7fa-086977b3102d" />
 
+### updating to use vectors
+<img width="313" alt="Screenshot 2025-04-13 at 10 09 08 PM" src="https://github.com/user-attachments/assets/2efa8358-7c65-40af-8eaf-6569ed5fde23" />
+

@@ -10,3 +10,5 @@
 ### updating to use vectors
 <img width="313" alt="Screenshot 2025-04-13 at 10 09 08 PM" src="https://github.com/user-attachments/assets/2efa8358-7c65-40af-8eaf-6569ed5fde23" />
 
+### add a generic applyForce function
+<img width="347" alt="Screenshot 2025-04-13 at 11 15 39 PM" src="https://github.com/user-attachments/assets/90a839c3-525f-4843-adff-c922c3a3197e" />

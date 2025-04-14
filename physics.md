@@ -16,3 +16,7 @@
 ### use acceleration to modify velocity
 <img width="370" alt="Screenshot 2025-04-13 at 11 22 23 PM" src="https://github.com/user-attachments/assets/e9c18b95-5261-483e-a37c-392050f51dbe" />
 
+### resetting acceleration
+<img width="254" alt="Screenshot 2025-04-13 at 11 24 55 PM" src="https://github.com/user-attachments/assets/ecf9c014-e023-4f01-ba6a-6a857d948585" />
+
+

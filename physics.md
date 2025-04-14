@@ -12,3 +12,7 @@
 
 ### add a generic applyForce function
 <img width="347" alt="Screenshot 2025-04-13 at 11 15 39 PM" src="https://github.com/user-attachments/assets/90a839c3-525f-4843-adff-c922c3a3197e" />
+
+### use acceleration to modify velocity
+<img width="370" alt="Screenshot 2025-04-13 at 11 22 23 PM" src="https://github.com/user-attachments/assets/e9c18b95-5261-483e-a37c-392050f51dbe" />
+

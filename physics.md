@@ -19,4 +19,6 @@
 ### resetting acceleration
 <img width="254" alt="Screenshot 2025-04-13 at 11 24 55 PM" src="https://github.com/user-attachments/assets/ecf9c014-e023-4f01-ba6a-6a857d948585" />
 
+### adding interactivity
+<img width="415" alt="Screenshot 2025-04-28 at 4 57 03 PM" src="https://github.com/user-attachments/assets/0cb4a12e-828e-43ca-bd81-ce3e8119fb92" />
 
